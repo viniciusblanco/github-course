@@ -1,4 +1,4 @@
 # Git Course
 
-Este é um repositorio teste \n
+Este Ã© um repositorio teste.
 Fazendo teste para colocar arquivos no Github
